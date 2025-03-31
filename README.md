@@ -1,4 +1,4 @@
-Find my other projects on my personal Gitea instance:
+All repositories were migrated to my personal Gitea instance ([Reason](https://news.ycombinator.com/item?id=43525395)):
 
 [git.mbirth.uk](https://git.mbirth.uk/)
 
