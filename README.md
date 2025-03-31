@@ -19,7 +19,7 @@ Such as:
 * [ubuntu-apt-sources](https://git.mbirth.uk/mbirth/ubuntu-apt-sources) - All the custom PPAs I used to use
 * [wifi-sd](https://git.mbirth.uk/mbirth/wifi-sd) - Transcend WiFi SD environment
 * [wiki](https://git.mbirth.uk/mbirth/wiki.mbirth.de) - my former blog/wiki based on GitHub Pages
-* [wipy-ussd1306](https://git.mbirth.uk/mbirth/wipy-ussd1306) - MicroPython module for SSD1306 OLED display
+* MicroPython: [SSD1306 OLED display](https://git.mbirth.uk/mbirth/wipy-ussd1306), [PCD8544 (Nokia 5110) display](https://git.mbirth.uk/mbirth/wipy-upcd8544)
 * some tools for Ricoh 360° cameras: [MicroPython code](https://git.mbirth.uk/mbirth/wipy-theta) and [conversion scripts](https://git.mbirth.uk/mbirth/ricoh-theta)
 * some scripts for mIRC: [AMIP](https://git.mbirth.uk/mbirth/mirc-amip), [SHADOW](https://git.mbirth.uk/mbirth/mirc-shadow) and [more](https://git.mbirth.uk/mbirth/mirc-scripts)
-* random code from my early days: [GW-BASIC](https://git.mbirth.uk/mbirth/gwbasic), [PowerBasic](https://git.mbirth.uk/mbirth/powerbasic), [Borland/Turbo Pascal](https://git.mbirth.uk/mbirth/pascal), [Java](https://git.mbirth.uk/mbirth/java-hangman) and [OPAL](https://git.mbirth.uk/mbirth/opal-examples)
+* random code from my early days: [GW-BASIC](https://git.mbirth.uk/mbirth/gwbasic), [PowerBasic](https://git.mbirth.uk/mbirth/powerbasic), [Borland/Turbo Pascal](https://git.mbirth.uk/mbirth/pascal), [Java](https://git.mbirth.uk/mbirth/java-hangman), [Perl](https://git.mbirth.uk/mbirth/perl-setistats) and [OPAL](https://git.mbirth.uk/mbirth/opal-examples)
